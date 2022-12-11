@@ -1,0 +1,5 @@
+matplotlib==3.6.2
+numpy==1.23.4
+pandas==1.5.1
+pandas_datareader==0.10.0
+statsmodels==0.13.5
